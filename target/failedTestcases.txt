@@ -1,0 +1,2 @@
+file:src/test/resources/parallel/LoginPage.feature:22
+file:src/test/resources/parallel/AccountPage.feature:14

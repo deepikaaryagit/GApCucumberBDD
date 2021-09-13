@@ -1,0 +1,8 @@
+parallel\GenericPageSteps.class
+parallel\Applicationhooks.class
+com\gap\runners\MyTestRunner.class
+MySerenityTestRunner.class
+parallel\LoginPageSteps.class
+parallel\FailedRunner.class
+parallel\AccountPageSteps.class
+parallel\ParallelRun.class

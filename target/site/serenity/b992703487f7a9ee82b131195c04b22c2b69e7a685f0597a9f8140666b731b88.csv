@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login Page feature","Login to Application using data from excel sheet","ERROR","2021-08-13T10:05:14.4047614-07:00[America/Los_Angeles]","0.0","102.92"
+"Login Page feature","Login Page Title","SUCCESS","2021-08-13T13:07:04.35-07:00[America/Los_Angeles]","0.0","4.83"
+"Login Page feature","Login to Application using different set of data","SUCCESS","2021-08-13T13:07:09.193-07:00[America/Los_Angeles]","0.0","66.49"
